@@ -1447,7 +1447,7 @@
 
 
             <!-- -->
-            <section>
+            <!-- <section> -->
         <!--         <div class="container">
         
             <div class="row">
@@ -2337,7 +2337,8 @@
        
 
         <!-- JAVASCRIPT FILES -->
-        <script type="text/javascript">var plugin_path = 'assets/plugins/';</script>
+       
+        <script type="text/javascript">var plugin_path = 'plugins/';</script>
         <script type="text/javascript" src="{{ asset('/plugins/jquery/jquery-2.1.4.min.js') }}"></script>
 
         <script type="text/javascript" src="{{ asset('/js/scripts.js') }}"></script>
