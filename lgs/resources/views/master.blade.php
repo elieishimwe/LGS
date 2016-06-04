@@ -91,7 +91,7 @@
 
             </div>
 
-            <a class="slidetop-toggle" href="#"><!-- toggle button --></a>
+          
 
         </div>
         <!-- /SLIDE TOP -->
