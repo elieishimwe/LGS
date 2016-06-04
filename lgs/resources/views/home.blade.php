@@ -551,5 +551,28 @@
             </div>
             <!-- /REVOLUTION SLIDER -->
 
+            <!-- WELCOME -->
+			<section class="nopadding-bottom">
+				<div class="container">
+					<header class="text-center margin-bottom-40">
+						<h1 class="weight-300">Welcome to Lumumba Graduate Institution</h1>
+						<h2 class="weight-300 letter-spacing-1 size-13"><span>(LGI)</span></h2>
+					</header>
+
+					<div class="text-center">
+						<p class="lead">
+							IN close partnership and collaboration with International Research and development Centers such Lumumba Graduate School offers public and cooperate training programes that have been drafted in line with the Africa and international environment.
+						</p>
+
+						<div class="margin-top-40">
+							
+						</div>
+
+					</div>
+				</div>
+			</section>
+			<!-- /WELCOME -->
+
+
 
 @endsection
