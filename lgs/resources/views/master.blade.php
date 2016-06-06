@@ -4,7 +4,7 @@
 <!--[if gt IE 9]><!-->  <html> <!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-        <title>Lumumba Graduate Institution</title>
+        <title>Lumumba Graduate Institute</title>
         <meta name="keywords" content="HTML5,CSS3,Template" />
         <meta name="description" content="" />
         <meta name="Author" content="Elie Ishiwme" />
@@ -222,19 +222,19 @@
                                 -->
                                 <ul id="topMain" class="nav nav-pills nav-main">
                                     <li class="dropdown active"><!-- HOME -->
-                                        <a class="" href="#">
+                                        <a class="" href="/">
                                             HOME
                                         </a>
                                        
                                     </li>
                                     <li class="dropdown active"><!-- HOME -->
-                                        <a class="" href="#">
+                                        <a class="" href="about">
                                             ABOUT US
                                         </a>
                                        
                                     </li>
                                     <li class="dropdown active"><!-- HOME -->
-                                        <a class="" href="#">
+                                        <a class="" href="">
                                             SERVICES
                                         </a>
                                        

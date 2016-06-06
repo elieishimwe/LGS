@@ -555,7 +555,7 @@
 			<section class="nopadding-bottom">
 				<div class="container">
 					<header class="text-center margin-bottom-40">
-						<h1 class="weight-300">Welcome to Lumumba Graduate Institution</h1>
+						<h1 class="weight-300">Welcome to Lumumba Graduate Institute</h1>
 						<h2 class="weight-300 letter-spacing-1 size-13"><span>(LGI)</span></h2>
 					</header>
 
