@@ -14,80 +14,11 @@
 							<img class="pull-left" src="assets/images/demo/smart-min.png" alt="" />
 							
 							<div class="heading-title">
-								<h2>LUMUMBA GRADUATE INSTITUTE</h2>
+								<h2>The following are our popular programmes at hand;</h2>
 							</div>
 
-							<p>IN close partnership and collaboration with International Research and development Centers such Lumumba Graduate School offers public and cooperate training programes that have been drafted in line with the Africa and international environment.</p>
-							<p>Its success also depends on a Team of well experienced facilitators with a wealth of expertise at international level are always available to deliver the entire programmes.</p>
-							<p>It also pays attention to experts who may be required to conduct and extend their experience in most or some of these programmes and therefore its online collaborations of any kind spearhead to enhance the chances of this kind of initiative in both development training and research.</p>
-							<p>Some of these extensive professional Training programs are customized to address the specific needs of various organizations or companies. These inspiring programmes are delivered on an in-house basis tailor made to suit and address particular organisation needs or public.</p>	
 						
-							<div class="row margin-top-60">
-
-
-								<div class="col-sm-6">
-									<div class="heading-title heading-border-bottom heading-color">
-										<h3>Our Mission</h3>
-										<p>To contribute to the Development of Quality professionalism, enhancing careers and changing lives through Training, Consultancy, and Research opportunities that lead to professional and personal development.</p>
-									</div>
-
-									<p></p>
-									<p></p>
-
-								</div>
-
-								<div class="col-sm-6">
-									<div class="heading-title heading-border-bottom heading-color">
-										<h3>Our Vision</h3>
-										<p>To become well known center of excellence through Training, Consultancy, and Research in Africa and beyond</p>
-									</div>
-
-									<p></p>
-									<p></p>
-
-								</div>
-
-								
-
-							</div>
-
-
-							<div class="margin-top-60">
-
-								<div class="heading-title heading-border-bottom heading-color text-center">
-									<h3>Objectives</h3>
-									<p>Inspiring to explore your potential</p>
-								</div>
-
-								<div class="row">
-
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-											<li><i class="fa fa-check text-success"></i> To provide quality, Training, Research and Consultancy service in accordance with the professional code of quality assurance practice;</li>
-											
-										</ul>
-									</div>
-
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-											<li><i class="fa fa-check text-success"></i> To promote and coordinate social, cultural and professional interaction among its clients in order to create an enabling environment for professional transformation;</li>
-
-										
-										</ul>
-									</div>
-
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-
-											<li><i class="fa fa-check text-success"></i> To promote corporate staff development through training and re-training.</li>
-
-											
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
+						
 
 							<div class="margin-top-60">
 
@@ -95,147 +26,155 @@
 								<div class="toggle toggle-transparent-body toggle-accordion">
 
 									<div class="toggle active">
-										<label>CONSULTANCIES</label>
+										<label>GOOD LOCAL GOVERNANCE</label>
 										<div class="toggle-content">
 												<div class="heading-title heading-border-bottom heading-color text-center">
-									<h3>Consultancies</h3>
-									<p>Lumumba Graduate School offer Training, consultancies and research to Government, individuals, companies and organizations in South Africa and beyond.</p>
+									<h3>GOOD LOCAL GOVERNANCE</h3>
+									<p></p>
 								</div>
 
-								<p>This client-centered support focuses on three main areas; </p>
+								<p><strong>Background</strong></p>
 
 								<div class="row">
 
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-											<li><i class="fa fa-check text-success"></i>Conducting training tailored to suit individual, company and organizational needs;</li>
-											
-										</ul>
-									</div>
+								
+									<div class="col-sm-12">
+										<p>Good local governance is an elastic and versatile concept .It has been interpreted in many different ways so as to encompass may different aspects of social organization and institutional frame work within which social and economic activities are performed .The question about who are the actors in good local governance is related o which responsibility the state (governments) the civil society and the private sector should pursue in governing society </p>
 
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-											<li><i class="fa fa-check text-success"></i>Interventions to help companies and organizations solve specific problems to enhance needed capacities;</li>
-
-										
-										</ul>
-									</div>
-
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-
-											<li><i class="fa fa-check text-success"></i>Conducting social surveys and evaluations that can be used to plan for sustainable development in the organisation and communities.</li>
-
-											
-										</ul>
+										<p>This course will provide a set of tools and techniques for promoting good governance at the local level. It offers conceptual and theoretical explanations for the growing criticism of the government s ability to run the state affairs and how to make a case for promoting an effective interface between civil society organizations and local Government as a springboard to the attainment of good local governance</p>
 									</div>
 
 								</div>
+								<br>
 
 
-								<p>Intended in this kind of approach is to;</p>
+								<p><strong>Course Objectives</strong></p>
 
 								<div class="row">
 
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-											<li><i class="fa fa-check text-success"></i>Provide individuals with the best opportunity to tailor our expertise according to their needs;</li>
-											<li><i class="fa fa-check text-success"></i>Enable more people from organization to participate in our training programmes</li>
+									<div class="col-sm-12">
+										<p>To enhance the capacity of participants to apply various tools for promoting good governance at the local level.</p>
 
-											
-										</ul>
-									</div>
-
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-											<li><i class="fa fa-check text-success"></i>Reduce extra costs associated with training an institutional setting;</li>
-
-
-										
-										</ul>
-									</div>
-									<div class="col-sm-4">
-										<ul class="list-unstyled list-icons">
-
-											<li><i class="fa fa-check text-success"></i>Let individuals apply for our training programmes to exact work content;</li>
-
-										
-										</ul>
+										<p><strong>Course Content</strong></p>
 									</div>
 
 								
-										</div>
-											
-										</div>
-									</div>
+								</div>
+									<div class="row">
 
-									<div class="toggle">
-										<label>OUR CLIENTS</label>
-										<div class="toggle-content">
-
-
-											<div class="heading-title heading-border-bottom heading-color text-center">
-												<h3>Our Clients</h3>
-												<p>LGS clients are companies and organizations that are working with developments. These include;</p>
-											</div>
-
-											<div class="row">
-
-												<div class="col-sm-4">
+												<div class="col-md-4">
 													<ul class="list-unstyled list-icons">
-														<li><i class="fa fa-check text-success"></i>Development cooperation’s</li>
+														<li><i class="fa fa-check text-success"></i>Analyzing the local poverty context: a part for the poor?</li>
 														
 													</ul>
 												</div>
 
-												<div class="col-sm-4">
+												<div class="col-md-4">
 													<ul class="list-unstyled list-icons">
-														<li><i class="fa fa-check text-success"></i>Non-Governmental organizations</li>
+														<li><i class="fa fa-check text-success"></i>The local government reform programes and good local governance concepts</li>
 
 													
 													</ul>
 												</div>
 
-												<div class="col-sm-4">
+												<div class="col-md-4">
 													<ul class="list-unstyled list-icons">
 
-														<li><i class="fa fa-check text-success"></i>Development funding agencies</li>
+														<li><i class="fa fa-check text-success"></i>The notions and challenges of local governance</li>
 
 														
 													</ul>
 												</div>
-												<div class="col-sm-4">
+												
+
+									</div>
+									<div class="row">
+
+												<div class="col-md-4">
+													<ul class="list-unstyled list-icons">
+														<li><i class="fa fa-check text-success"></i>Promoting democratic governance</li>
+														
+													</ul>
+												</div>
+
+												<div class="col-md-4">
+													<ul class="list-unstyled list-icons">
+														<li><i class="fa fa-check text-success"></i>Civic an professional ethics for good governance tools and processes:</li>
+
+													
+													</ul>
+												</div>
+
+												<div class="col-md-4">
 													<ul class="list-unstyled list-icons">
 
-														<li><i class="fa fa-check text-success"></i>Individuals</li>
+														<li><i class="fa fa-check text-success"></i>Whose priority in policy making?</li>
 
 														
 													</ul>
 												</div>
-												<div class="col-sm-4">
+												
+
+									</div>
+									<div class="row">
+
+												<div class="col-md-4">
 													<ul class="list-unstyled list-icons">
-
-														<li><i class="fa fa-check text-success"></i>Government Sectors</li>
-
+														<li><i class="fa fa-check text-success"></i>Participatory management principles sand practices</li>
 														
 													</ul>
 												</div>
-												<div class="col-sm-4">
+
+												<div class="col-md-4">
 													<ul class="list-unstyled list-icons">
+														<li><i class="fa fa-check text-success"></i>Prompting local good governance through partnership</li>
 
-														<li><i class="fa fa-check text-success"></i>Trade and labour union</li>
-
-														
+													
 													</ul>
 												</div>
-												<div class="col-sm-4">
-													<ul class="list-unstyled list-icons">
 
-														<li><i class="fa fa-check text-success"></i>Community based organizations and micro small-scale enterprises.</li>
+											
 
+									</div>
+									<p><strong>Target Group</strong> </p>
+									<div class="row">
+
+										<div class="col-sm-12">
+											<p>This course is intended for civil society organizations, professional organizations including trade unions and civic associations, district councilors, policymakers, staff of development agencies, elected representatives and local government reforms teams</p>
+
+											
+										</div>
+
+								
+									</div>
+
+											
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>DECENTRALIZATION & DEMOCRATIC LOCAL GOVERNANCE PROGRAMMING</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>Decentralization and Democratic local governance programming</h3>
+												
+											</div>
+
+											<div class="row">
+
+												<div class="col-sm-12">
+													<p>Service delivery prior to decentralization did not allow communities to participate and there was little regard to transparency, accountability and professionalism in government affairs. The rule of law has not largely prevailed, while there is preferential treatment, and services are not sufficiently effective and efficient.
 														
-													</ul>
+													</p>
+													<p>Basically, the Government has been not been able to be fully responsive to the needs of the people and it has narrowed vision of its future direction to particular priorities. In the process, the people’s faith in government is severely being severely eroded. </p>
+
+													<p>Given such a situation, it has became necessary to demonstrate that change in the way local governments run their affairs is possible. Such change is based on a voiced need for an effort to create and promote a broader understanding and shared vision for governance reform, including policies and practices in regional autonomy and local governance.</p>
+													
 												</div>
+
+												
 
 											</div>
 											

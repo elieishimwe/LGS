@@ -18,3 +18,9 @@ Route::get('/', function () {
 Route::get('about', function () {
     return view('about');
 });
+
+Route::get('programmes', function () {
+	
+    return view('programmes');
+});
+

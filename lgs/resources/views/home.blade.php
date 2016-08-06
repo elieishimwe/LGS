@@ -470,7 +470,7 @@
                                 data-aspectratio="16:9"
                                 data-forcerewind="on" style="z-index: 2;">
 
-                                <div class="tp-dottedoverlay twoxtwo"><!-- dotted overlay --></div>
+                                
 
     
 
