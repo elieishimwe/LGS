@@ -720,6 +720,887 @@
 										</div>
 									</div>
 
+									<div class="toggle">
+										<label>NATURAL RESOURCE MANAGEMENT AND GOVERNANCE</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>NATURAL RESOURCE MANAGEMENT AND GOVERNANCE</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+
+													<p>This course is designed to provide a deeper appreciation and internationalism of the concepts and processes that underlie successful participatory natural resource management .It will also provide a clearer understanding of the importance of genuinely seeking to involve all relevant stakeholders including the poor in coming up with feasible and sustain able project designs. Additionally, it provides skills and knowledge on how to conduct participatory monitoring and evaluation necessary for feedback to continually improve on the current planning and strategies so as to adapt designs to circumstances, and to make future designs more effective and efficient. </p>
+
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Objectives:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+														<p>By the end of the course all participants will have gained an understanding of the importance of involving all relevant stakeholders is sustainable natural resource project designing, together with skills and knowledge on how to conduct participatory monitoring and evaluation.</p>
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Concepts</strong></p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Participatory natural resource management (PNRM) concepts including sustainable livelihood interventions, understanding policy advocacy and resource tenure.</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Participatory arrangements for natural resource management and governance.</li>
+
+															
+															</ul>
+														</div>
+													
+
+
+											</div>
+
+											<p><strong>Planning Processes</strong></p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>People centered- planning</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Adaptive management of natural resource.</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Participatory monitoring and evaluation</li>
+
+															
+															</ul>
+														</div>
+													
+
+
+											</div>
+
+											<p><strong>Target Group</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>The course is intended for practitioners in Natural Resource Management that is people involved in the day-to –day management, coordination and / or supervision of such projects</p>
+
+												</div>
+
+														
+
+
+											</div>
+
+											
+
+
+
+
+
+											
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>ORGANIZATIONAL CAPACITY BUILDING</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>ORGANIZATIONAL CAPACITY BUILDING</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>In the development sector managers, and development workers are faced with the challenge of playing a leadership role in initiating and sustaining capacity building processes in their organizations .Yet very few have training in this aspect, so this course attempts to equip them with a broader range of organizational skills to capacity building to be effective in their work.</p>
+
+													<p>The course is focused on developing participants’ analytical abilities and intervention skills within organizational context .This course will be influenced by an organizational development (OD) perspective which offers an underpinning philosophy and value base that will facilitate the effective application of the different organizational skills</p>
+											
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Objectives:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+														<p>The overall aim of the curse is to strengthen the participants’ ability to assess organization and to develop effective interventions.</p>
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Content</strong></p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Understanding organizations and organizational capacity building: Key concepts, how the different perspectives of organizations affect our perception of organization functioning, linking organizational capacity building advocacy.</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Organisation assessment (OA): Different approaches, techniques and methods of doing OA and assessing organizational culture.</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Designing effective organizational interventions: Different models of designing organizational interventions from an organizational development (OD) perspective</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Strategies for effective change management: The dynamics of change at the different levels of the organization, different strategies and skills required or effective change management, including integration gender considerations.</li>
+
+															
+															</ul>
+														</div>
+													
+
+
+											</div>
+
+							
+											<p><strong>Target Group</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>The course is meant for company managers, NGO leaders and Resource managers, and for advisors and programme officers involved in capacity building in their organizations or with their partners.</p>
+												
+												</div>
+
+														
+
+
+											</div>
+
+											
+
+
+
+
+
+											
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>PARTICIPATORY FOREST AND TOURISM MANAGEMENT</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>PARTICIPATORY FOREST AND TOURISM MANAGEMENT</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>The course is designed to impart appropriate knowledge and skills on principles, processes and practices related to participatory Forest Management and tourism. It will provide deeper understanding in PFTM principles ,concepts and processes to different target groups in order to strengthen their capacity in designing and implementation of successful PFTM programmes .The course also aims to increase the understanding of scale, effectiveness and equity of local community and other stakeholder participation in the sustainable management and utilization of natural forests and wood lands .On monitoring and evaluation, the course will provide knowledge and skills which will assist the practitioners to build in their programmes feedback mechanisms. It will also address the issue of organizational and attitudinal changes necessary for sustainable implementation of PFTM</p>
+														
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Objectives:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+
+													<p>Participants will have enhanced their understanding of the principles and issues related to participatory Forest Management (PFTM) planning and implementation, and skills in promotion and facilitation of PFM processes. This will help in day-to-day management, co-ordination and /or supervision of such projects</p>
+
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Content</strong></p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>PFTM principles and processes</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Situation analysis for PFTM planning</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Conflict management and negotiation for PFTM</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Institutional arrangement for PFTM</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Monitoring and valuation for PFTM</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Facilitation skills for PFTM</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Organizational and attitudinal change</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Advocacy for PFTM</li>
+
+															
+															</ul>
+														</div>
+													
+													
+
+
+											</div>
+
+							
+											<p><strong>Target Group</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+														<p>This course is designed for and NGO staff involved in PFTM implementation. These are the people who coordinate and manage PFTM initiatives or projects</p>												
+												</div>
+
+														
+
+
+											</div>
+
+											
+
+
+
+
+
+											
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>POLICY ADVOCACY</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>POLICY ADVOCACY</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+														<p>Civil society organizations (CSOs) now appreciate that service delivery work will not on its own engender a just and equitable society. Long-term change in the condition of the poor requires that governments make concerted efforts to address the structural constraints to poverty eradicating and to the fulfillment f people’s rights more generally. Consequently the attainment of these two broad goals requires an enabling political, economic and social development environment</p>														
+												
+														<p>CSOs have a unique opportunity to propose practical policy and programme solutions –through evidence based research, programmes and policy advocacy work –to problems of poverty and the promotion of human rights. However, an effective advocacy role places new demands on CSOs in terms relevant knowledge, skills and the spaces available to engage strategically with governments and other development actors. This course therefore aims to develop the capacities of development practitioners in policy advocacy work through deepening their understanding of the public policy making process, enhancing their capability to engage with this process at national, regional and global levels.</p>
+
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Objectives:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+
+														<p>The overall objective of this course is to equip civil organizations and others with the skills necessary for influencing public policy effectively to achieve good governance and poverty reduction</p>
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Content</strong></p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Advocacy definitions an concepts</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>The policy-making context</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Understanding policy-making</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Policy analysis: importance, budget analysis and gender analysis</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Advocacy tools: research, communication, coalition building, monitoring, evaluation and organizational capacity building</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Practical advocacy strategy development.</li>
+
+															
+															</ul>
+														</div>
+														
+													
+													
+
+
+											</div>
+
+							
+											<p><strong>Target Group</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+														<p>This course targets middle and senior level staff in civil and other organizations interested in building their capacity for public policy advocacy</p>
+												</div>
+
+														
+
+
+											</div>
+
+											
+
+
+
+
+
+											
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>PROJECT PLANNING AND MANAGEMENT</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>PROJECT PLANNING AND MANAGEMENT</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>Development projects are a crucial undertaking of NGOs and CBOs, which need to be designed as instruments of interventions taking into account the socio-economic and political environment. Furthermore, the complexity of designing the operational management and implementation systems of development projects call for technical skilled projects teams.</P>
+
+													<p>Therefore managing development-oriented projects needs practitioners with both technical and personal skills to successfully manage and implement them.</p>
+
+													<p>It is for this reason that Lumumba Graduate School has developed the course on project planning and management focusing on technical and personal skills needed in project design and implementation systems. It aims at providing a systematic framework for addressing development project issues and challenges.</p>
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Objectives:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+													<p>By the end of the course, participants will be better in responding to development challenges in a systematic manner, putting people at the center of their project design implementation and monitoring work.</p>
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Content</strong></p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Participatory project planning including Logical Framework Approach</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Stakeholders interests and influence</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Participatory situational analysis</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Project strategy development</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Project cycle management</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Organising a participatory monitoring and evaluation system</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Management structures and the competent project manager</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Project proposal writing and reporting</li>
+
+															
+															</ul>
+														</div>
+														
+													
+													
+
+
+											</div>
+
+							
+											<p><strong>Target Group</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+													<p>This course is for people working in companies, NGOs and other development organizations coordinating or managing projects/programmes.</p>
+												</div>
+
+														
+
+
+											</div>
+
+											
+
+
+
+
+
+											
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>RESOURCE CENTER MANAGEMENT</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>RESOURCE CENTER MANAGEMENT</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>Information Management systems are very crucial in the daily functioning of organizations Due to lack of expertise, in this area many organizations experience a gap in the management and retrieval of information. This course is designed tom provide a ‘Hands-on’ introduction to managing resources centers and information systems</p>
+
+												</div>
+
+														
+
+
+											</div>
+
+											<p><strong>Course Objectives</strong></p>
+
+											<p>By the end of the course participants will be able to:</p>
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Appreciate the importance of conceptual framework of information management systems and the importance of institutional memory in organizations</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Understand the basics of records management</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Formulate the main objectives and functions of the resource center</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Undertake the technical operations of the resource center.</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Setup a pro-type database management system</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Disseminate information and market a resource center</li>
+
+															
+															</ul>
+														</div>
+														
+													
+
+											</div>
+
+											<p><strong>Course Content</strong></p>
+
+											
+
+											<div class="row">
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Conceptual framework of information management</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Introduction to records management</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Objectives and functions of a resource center</li>
+
+															
+															</ul>
+														</div>
+
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Technical operations of a resource center</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Information dissemination</li>
+
+															
+															</ul>
+														</div>
+														<div class="col-md-4">
+															<ul class="list-unstyled list-icons">
+																<li><i class="fa fa-check text-success"></i>Marketing of the resource center</li>
+
+															
+															</ul>
+														</div>
+														
+													
+
+											</div>
+
+							
+											<p><strong>Target Group</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+													<p>The course is intended for companies, NGO personnel who have no prior training in information science studies.</p>
+
+													<p>More programes shall be designed that incorporate theories in Leadership. Delegation, Time management, Human Resource planning and management, Public sector management, Quality systems development, and Finance and the banking operations and Research activities.</p>
+												</div>
+
+														
+
+
+											</div>
+
+											
+
+
+
+
+
+											
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>STRATEGIC PEACEBUILDING</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>STRATEGIC PEACEBUILDING</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+													<p>This course seeks to equip learners with the ability to build and utilize a more comprehensive and strategic approach to constructing a just peace.</p>
+												
+													<p>Strategic Peacebuilding originates in the assumption that the successful building of a viable and just peace, as well as the creation and operation of programs that sustain it, is a complex process that requires significant expertise. If, as the American saying goes, ‘war is too important to be left to generals’, than most certainly peace is too important to be left only to those with good intentions or a passion for principled action, however virtuous these characteristics may be.</p>
+
+													<p>This course seeks to equip learners with the ability to build and utilize a more comprehensive and strategic approach to constructing a just peace. The course teaches that to end situations of large-scale violence, hatred or injustice professional peacebuilders must combine their knowledge of the central concepts, theories and findings of modern peace research, with what we know of the best practices of experts engaged in peacebulding and related problems, with careful, in-depth, reflection on how insiders and outsiders to a violent conflict can build stable peace in their particular situation at hand.</p>
+
+													<p>It has been designed to provide a cross-disciplinary examination of violence and peace issues so that learners will have a firm grounding in the central concepts, methods, frameworks and findings which peace research scholars, policy makers, and professional peacebuilders employ in dealing with war and violence. This course underscores the shared interest and circumstances across various fields that participate in and contribute to peacebuilding - sociology, psychology,anthropology, political science, international relations, economics, and religion. Our approach in the course is that a more holistic approach to peacebuilding enhances its efficacy and sustainability. We believe that peacebuilding must build and maintain top-down and bottom-up connections between people and groups at all levels.</p>
+
+												</div>
+
+														
+
+
+											</div>
+
+										
+
+														
+										</div>
+									</div>
+
+									<div class="toggle">
+										<label>GOOD GOVERNANCE AFTER CONFLICT:GUIDING PRINCIPLES</label>
+										<div class="toggle-content">
+
+
+											<div class="heading-title heading-border-bottom heading-color text-center">
+												<h3>GOOD GOVERNANCE AFTER CONFLICT:GUIDING PRINCIPLES</h3>
+												
+											</div>
+
+											
+
+											<p><strong>Background:</strong></p>
+
+											<div class="row">
+
+												<div class="col-md-12">
+												
+												
+													<p>The aim of this course is for participants to understand the challenges and opportunities in achieving good governance within the complex context of a transition environment. Ultimately, this course will help enable participants to develop and implement effective strategies for building good governance in conflict-to-peace transitions.</p>
+		
+
+													<p>This course is designed to provide an introduction to some of the key considerations of establishing good governance after conflict. Through conceptual presentations and case study exercises, participants will experience an interactive approach to learning about the challenges confronting international and local actors when establishing or re-establishing good governance. Participants will leave this course with an understanding of the tensions and contradictions in post-conflict functions; the challenges facing interim governments; the role of the international community; the issue of addressing corruption; and challenges and opportunities for economic reconstruction after conflict</p>
+
+												</div>
+
+														
+
+
+											</div>
+
+										
+
+														
+										</div>
+									</div>
+
+
 
 								
 
