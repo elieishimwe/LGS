@@ -240,15 +240,10 @@
                                        
                                     </li>
 
-                                     <li class="dropdown active"><!-- HOME -->
-                                        <a class="" href="#">
-                                            PORTFOLIO
-                                        </a>
-                                       
-                                    </li>
+                                   
 
                                     <li class="dropdown active"><!-- HOME -->
-                                        <a class="" href="#">
+                                        <a class="" href="contact">
                                             CONTACT US
                                         </a>
                                        

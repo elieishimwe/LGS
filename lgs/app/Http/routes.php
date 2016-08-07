@@ -20,7 +20,17 @@ Route::get('about', function () {
 });
 
 Route::get('programmes', function () {
-	
+
     return view('programmes');
 });
+
+Route::get('contact', function () {
+	
+    return view('contactus');
+});
+
+
+
+Route::post('send_contact', ['uses' => 'ContactController@send_contact']);
+
 
