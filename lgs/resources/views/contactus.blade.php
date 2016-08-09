@@ -10,7 +10,7 @@
 					<div class="row">
 
 						<!-- FORM -->
-						<div class="col-md-9 col-sm-9">
+						<div class="col-md-8 col-sm-8">
 
 							<h3>Drop us an email</h3>
 
@@ -116,15 +116,16 @@
 
 
 						<!-- INFO -->
-						<div class="col-md-3 col-sm-3">
+						<div class="col-md-4 col-sm-4">
 
 							
 
 							<hr />
 
 							<p>
-								<span class="block"><strong><i class="fa fa-map-marker"></i> Address:</strong> Durban,South Africa</span>
-								<span class="block"><strong><i class="fa fa-phone"></i> Phone:</strong> <a href="tel:+27812991782">+27812991782</a></span>
+								<span class="block"><strong><i class="fa fa-map-marker"></i> Address:</strong>Office 19F, 320 building,        West Street,Durban,4001</span>
+								<span class="block"><strong><i class="fa fa-phone"></i> Phone:</strong> <a href="tel:+27812991782">+27812991782 / +27313012555</a></span>
+								<span class="block"><strong><i class="fa fa-phone"></i> Fax:</strong> <a href="tel:+27313012556">+27313012556</a></span>
 								<span class="block"><strong><i class="fa fa-envelope"></i> Email:</strong> <a href="mailto:info@lgsedu.co.za ">info@lgsedu.co.za </a></span>
 							</p>
 
