@@ -40,10 +40,12 @@
 							-->
 
 							<!-- Alert Success -->
-							<div id="alert_success" class="alert alert-success margin-bottom-30">
+							@if(Session::has('message'))
+							<div class="alert alert-success margin-bottom-30">
 								<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
 								<strong>Thank You!</strong> Your message successfully sent!
 							</div><!-- /Alert Success -->
+							@endif
 
 
 							<!-- Alert Failed -->
