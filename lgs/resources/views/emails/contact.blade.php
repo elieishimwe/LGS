@@ -97,7 +97,7 @@
 
                                                     <tr>
                                                         <td width="100%" style="font-family:helvetica, Arial, sans-serif; font-size: 14px; text-align: left; color:#87919F; line-height: 24px;">
-                                                            {{ $content }}
+                                                            {{ $msg }}
                                                         </td>
                                                     </tr>
                                             </tbody>

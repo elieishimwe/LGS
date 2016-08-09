@@ -15,12 +15,12 @@ class ContactController extends Controller
     public function send_contact(Request $request) {
 
       
-		$emails          = array('elieish@gmail.com','info@lgsedu.co.za','kasambi@lgsedu.co.za','drkasole@lgsedu.co.za');
-		$data            = array();
-		$data['name']    = $request['name'];
-		$data['email']   = $request['email'];
-		$data['subject'] = $request['subject'];
-		$data['content'] = $request['content'];
+        $emails          = array('elieish@gmail.com','info@lgsedu.co.za','kasambi@lgsedu.co.za','drkasole@lgsedu.co.za');
+        $data            = array();
+        $data['name']    = $request['name'];
+        $data['email']   = $request['email'];
+        $data['subject'] = $request['subject'];
+        $data['msg']     = $request['msg'];
 
         \Mail::send('emails.contact', $data, function($message) use ($data,$emails)
         {
