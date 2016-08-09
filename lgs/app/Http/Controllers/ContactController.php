@@ -20,7 +20,7 @@ class ContactController extends Controller
         $data['name']    = $request['name'];
         $data['email']   = $request['email'];
         $data['subject'] = $request['subject'];
-        $data['msg']     = $request['msg'];
+        $data['msg']     = $request['message'];
 
         \Mail::send('emails.contact', $data, function($message) use ($data,$emails)
         {
